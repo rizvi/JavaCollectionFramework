@@ -1,0 +1,11 @@
+**Find all points within a certain distance of another point.**
+
+Find points(Given X, Y coordinates) which are within a certain distance of another point.
+The distance and the central point is specified as an argument to the function which computes the points in range.
+
+**Example:** All points within a distance 10 of (0,0) will include the point at (3,4) but not include the point at (12, 13)
+
+What I have to do?
+---
+Suppose there is a circle, center is (0, 0). Radius 10. You have given some points.
+ Which points are within the circle? 
